@@ -1,7 +1,0 @@
-# R requirements
-dplyr
-tidyr
-pandas
-ggplot2
-
-teal.clinical

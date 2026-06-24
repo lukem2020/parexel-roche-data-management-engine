@@ -1,9 +1,5 @@
-.renv/
 .Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 .Renviron
-.Rprofile
-.Rbuildignore
-.Rbuildignore
